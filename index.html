@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>2-Player Memory Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="game-container">
+    <h1>🧠 Memory Match Game (2 Players)</h1>
+    <div class="stats">
+      <div class="players">
+        <span>👤 Player 1: <span id="score1">0</span></span>
+        <span>👤 Player 2: <span id="score2">0</span></span>
+        <span id="turn">Turn: Player 1</span>
+      </div>
+      <button id="restart">🔄 Restart</button>
+    </div>
+    <div class="game-board" id="game-board">
+      <!-- Cards will be generated here -->
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
