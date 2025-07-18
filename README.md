@@ -15,8 +15,8 @@ A fun and interactive Memory Card Matching Game for two players, built using HTM
 💫 Flip Animation – Smooth card-flip effect for a polished look
 
 🛠️ Built With
-HTML5 – For structure
+🔸 HTML5 – For structure
 
-CSS3 – For layout, animations, and responsive design
+🎨 CSS3 – For layout, animations, and responsive design
 
-JavaScript – For game logic, player tracking, and interactivity
+🧠 JavaScript – For game logic, player tracking, and interactivity
